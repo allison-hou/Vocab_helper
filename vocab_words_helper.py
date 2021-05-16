@@ -3,8 +3,7 @@ import sys
 if __name__ == '__main__':
     args = sys.argv[1:]
     if len(args) != 2:
-        print('[USAGE] python vocab_words_helper.py <input_file_path> <output_file_path>')
-        
+        print('[USAGE] python vocab_words_helper.py <input_file_path> <output_file_path>')      
        
     FILE_PATH = args[1]
     OUTPUT_PATH = args[2]
