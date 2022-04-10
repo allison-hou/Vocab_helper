@@ -5,9 +5,9 @@ if __name__ == '__main__':
     if len(args) != 3: 
         print('[USAGE] python vocab_words_helper.py <input_file_path> <output_file_path> <question_output_path>')       
         
-    FILE_PATH = args[1] 
-    OUTPUT_PATH = args[2] 
-    QUESTION_PATH = args[3] 
+    FILE_PATH = args[0] 
+    OUTPUT_PATH = args[1] 
+    QUESTION_PATH = args[2] 
      
     with open(FILE_PATH) as f: 
         lines = f.readlines() 
