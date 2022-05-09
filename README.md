@@ -15,6 +15,9 @@
 3.	排序過後的單字和模擬克漏字選填將會被寫入檔案中
 
 ## 成果展現
-詳見 [排序前的文檔](vocab_not_sorted.txt) 和 [排序後的文檔](vocab_sorted.txt)
+詳見 
+[排序前的文檔](vocab_not_sorted.txt) 
+[排序後的文檔](vocab_sorted.txt)
+[試題文檔](questions.txt)
 
-可以看見單字以chronological order排序
+由上述的成果示意可以看見單字以chronological order排序，再加上模擬克漏字試題的功能達到複習效果、檢視學習成效。
